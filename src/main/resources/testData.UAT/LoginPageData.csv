@@ -1,0 +1,8 @@
+usernameLabel,Login*
+passwordLabel,Passwort*
+loginBtnLabel,Login
+forgotPassLabel,Passwort vergessen?
+registrationLabel,Registrieren
+errUserName,Username oder Email-Adresse wird benötigt.
+errPassword,Passwort wird benötigt.
+errInvalidUser,Wrong email or password!
