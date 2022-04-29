@@ -3,12 +3,12 @@
 <suite name="Suite" preserve-order="true">
 	<groups>
 		<run>
-			<exclude name="StudyPlatformTests" />
+			<exclude name="GROUP_TO_BE_EXCLUDED" />
 		</run>
 	</groups>
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="com.schrack.sfsAutomation.LoginTest" />
+			<class name="//TEST_CLASS_PATH" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
